@@ -1,12 +1,12 @@
-/* CSS Styles for Project 4 Web Development*/
+/* CSS Styles for Activity 3 Web Development*/
 body{
-    background-color: pink;
+    background-color: aliceblue;
     font-family: sans-serif;
-    }
+}
 Main{
     width: 90%;
     max-width: 1500px;
-    background-color: yellow;
+    background-color: bisque;
     margin-left: auto;
     margin-right: auto;    
 }
@@ -21,7 +21,7 @@ header h1{
 #topHeader{
     height: 6em;
     padding: 1em;
-    color: blue;
+    color: darkred;
     }
 .subHeader{
     height: 2em;
@@ -50,7 +50,7 @@ nav a:hover{
 
 section{
     min-height: 2em;
-    background-color: darkgreen;
+    background-color: darkred;
     color: white;
     padding-left: 2em;
 }
