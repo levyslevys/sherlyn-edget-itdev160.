@@ -1,0 +1,63 @@
+/* CSS Styles for Project 4 Web Development*/
+body{
+    background-color: aliceblue;
+    font-family: sans-serif;
+}
+Main{
+    width: 90%;
+    max-width: 1500px;
+    background-color: bisque;
+    margin-left: auto;
+    margin-right: auto;    
+}
+header{
+}
+header h1{
+    text-align: center;
+    font-size: 3em;
+    text-shadow: 1px 2px 8px #000;    
+}
+#topHeader{
+    height: 6em;
+    padding: 1em;
+    color: darkred;
+    }
+.subHeader{
+    height: 2em;
+}
+nav{
+    height: 2em;
+    background-color: black;
+    color: white;
+    padding-left: 2em;
+    /*padding-top: .1em;*/
+    line-height: 3em;
+    text-align: center;
+    font-size: 1.5em;
+ }
+nav a:link{
+color:beige;
+text-decoration: none;
+}
+
+nav a:visited{
+color:beige;}
+
+nav a:hover{
+    color: paleturquoise;
+}
+
+section{
+    min-height: 2em;
+    background-color: darkred;
+    color: white;
+    padding-left: 2em;
+}
+article{
+    }
+footer{
+    height: 2em;
+    background-color: black;
+    color: white;
+    padding-left: 2em;
+}
