@@ -1,0 +1,63 @@
+/* CSS Styles for Activity 5*/
+body{
+    background-color: pink;
+    font-family: 'Open Sans';
+}
+Main{
+    width: 90%;
+    max-width: 1500px;
+    background-color: red;
+    margin-left: auto;
+    margin-right: auto;    
+}
+header{
+}
+header h1{
+    text-align: center;
+    font-size: 3em;
+    text-shadow: 1px 2px 8px #000;    
+}
+#topHeader{
+    height: 6em;
+    padding: 1em;
+    color: black;
+    }
+.subHeader{
+    height: 2em;
+}
+nav{
+    height: 2em;
+    background-color: blue;
+    color: white;
+    padding-left: 2em;
+    /*padding-top: .1em;*/
+    line-height: 3em;
+    text-align: center;
+    font-size: 1.5em;
+ }
+nav a:link{
+color: blue;
+text-decoration: none;
+}
+
+nav a:visited{
+color: fuchsia;}
+
+nav a:hover{
+    color: paleturquoise;
+}
+
+section{
+    min-height: 2em;
+    background-color: red;
+    color: white;
+    padding-left: 2em;
+}
+article{
+    }
+footer{
+    height: 2em;
+    background-color: white;
+    color: white;
+    padding-left: 2em;
+}
